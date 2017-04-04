@@ -16,6 +16,7 @@
 		<string>url</string>
 		<string>URL</string>
 		<string>.editorconfig</string>
+		<string>.service</string>
 	</array>
 	<key>name</key>
 	<string>INI</string>
